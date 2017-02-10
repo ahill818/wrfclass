@@ -23,3 +23,6 @@ updraft helicity
 max 10-m ws
 SCP
 STP
+
+Vertical interpolation in both pressure and height are available to produce plots of variables aloft and those that consist of two vertical levels (e.g. 0-6km shear).
+
