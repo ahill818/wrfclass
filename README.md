@@ -1,8 +1,6 @@
 # wrfclass
 Initial python class that will plot WRF files, both deterministic and ensemble output. Basic variables at the surface and aloft are available currently with more to be added as the class progresses. Functions to add:
 ```
-melting level
-virtual temperature
 thickness
 accumulated precipitation
 precip probability (ensemble)
