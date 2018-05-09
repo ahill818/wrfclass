@@ -45,5 +45,12 @@ SCP
 STP
 ```
 
+Ensemble Plots:
+```
+Probabilities (UH and Reflectivity)
+Paintball
+Mean and Spread
+```
+
 Vertical interpolation in both pressure and height are available to produce plots of variables aloft and those that consist of two vertical levels (e.g. 0-6km shear).
 
